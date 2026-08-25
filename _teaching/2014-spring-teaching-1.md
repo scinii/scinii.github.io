@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Misc courses taught in Groningen"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: "Undergraduate courses"
+permalink: /teaching/overview
+venue: "University of Groningen"
+date: 2023-01-01
+enddate: 2026-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Singlevariable calculus — 2023/2024, 2024/2025     
+Multivariable Calculus — 2023/2024, 2024/2025    
+Numerical Mathematics — 2023/2024  
+Statistics — 2025/2026
